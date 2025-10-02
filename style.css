@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+body {
+    display: block;
+    margin-left: 375px;
+}
+
+.round_img {
+    width: 210px;
+    float: right;
+    margin-right: 425px;
+}
+
+h1 {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 24px;
+}
+
+p {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.personal_details {
+    margin-top: 50px;
+}
+
+.objectives {
+    margin-top: 55px;
+}
+
+.experience {
+    margin-top: 55px;
+}
+
+.education {
+    margin-top: 55px
+}
+
+.skill {
+    margin-top: 55px;
+}
+
+#level1 {
+    margin-left: 318px;
+}
+
+#level2 {
+    margin-left: 320px;
+}
+
+#level3 {
+    margin-left: 320px;
+}
+
+#level4 {
+    margin-left: 320px;
+}
+
+.quicksand {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15.75px;
+}
+
+.quicksand1 {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16.75px;
+}
+
+.quicksand3 {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18.5px;
+}
+
+.quicksand4 {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 17px;
+}
+
+#tertiary {
+    margin-right: 120px;
+}
+
+#post_secondary {
+    margin-right: 54px;
+}
+
+#secondary {
+    margin-right: 97.5px;
+}
+
+#primary {
+    margin-right: 120px;
+}
+
+#up {
+    margin-left: 50px;
+}
+
+#ucc {
+    margin-left: 49.5px;
+}
+
+#inhs {
+    margin-left: 49.5px;
+}
+
+#abes {
+    margin-left: 50px;
+}
+
+.lato {
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 15px;
+}
+
+ul {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
